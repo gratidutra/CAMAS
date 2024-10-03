@@ -1,4 +1,4 @@
-# Climate and Gas Monitoring
+# CAMAS – Climate and Ammonia Monitoring Arduino System 
 
 ## Overview
 
