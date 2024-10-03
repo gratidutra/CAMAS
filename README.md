@@ -33,7 +33,7 @@ This project implements a system to monitor environmental conditions using a **D
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/Climate-and-Gas-Monitoring.git
+ git clone https://github.com/yourusername/Climate-and-Gas-Monitoring.git
 
 2. Upload the code to your Arduino.
 
